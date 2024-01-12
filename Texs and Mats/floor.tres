@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bbgd5248aht4v"]
+
+[ext_resource type="Texture2D" uid="uid://70bucbe708n0" path="res://Texs and Mats/Terrazzo005_1K-JPG/Terrazzo005_1K-JPG_Color.jpg" id="1_ksl7s"]
+
+[resource]
+albedo_texture = ExtResource("1_ksl7s")
+uv1_scale = Vector3(0.9, 0.9, 0.9)
+uv1_triplanar = true
+uv1_world_triplanar = true
